@@ -2,7 +2,7 @@
 version: 1
 id: {04FE24D5-3FAA-40E3-9973-1FE8E61B468F}
 database: master
-path: /sitecore/content/Home/FAQ/something
+path: /sitecore/content/Home/korobka/FAQ/something
 parent: {52AB2C47-1BCF-4A81-87B5-2578E32B0AC1}
 name: something
 master: {00000000-0000-0000-0000-000000000000}
